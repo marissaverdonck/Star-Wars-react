@@ -1,3 +1,5 @@
+# React assignment - Star Wars API
+
 The following assignment is based using the Star Wars API that can be found here - https://swapi.dev/
 There will be an attachment with the design which is expected look similar and keep the same colors, format, etc.
 
