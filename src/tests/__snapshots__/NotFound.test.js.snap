@@ -1,0 +1,388 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly when there is a array as message 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    1
+    2
+    3
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a array as size 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size={
+          Array [
+            1,
+            2,
+            3,
+          ]
+        }
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a array as title 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        1
+        2
+        3
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a message 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    hello
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a size 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a title 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Marissa
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a unknown message 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  />
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a unknown size 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size={null}
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is a unknown title 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there is no title , size and/or message 1`] = `
+<main
+  className="sc-dlnjPT iaiIRM"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <h1
+    className="sc-hKFyIo ggVltP"
+  >
+    404, page not found.
+  </h1>
+  <div
+    className="sc-eCApGN cxpRRu"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+       Go back to the homepage → 
+    </a>
+  </div>
+</main>
+`;

@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly when there are right type of values 1`] = `
+<main
+  className="sc-hKFyIo jBItgO"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <div
+    className="sc-dlnjPT hCuWvg"
+  >
+    <p>
+      Loading data
+    </p>
+  </div>
+</main>
+`;
+
+exports[`Renders correctly when there are the wrong type of values 1`] = `
+<main
+  className="sc-hKFyIo jBItgO"
+>
+  <header
+    className="sc-bdnylx boUdXo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="sc-gtssRu ktzkmZ"
+        size="big"
+      >
+        Star Wars Universe.
+         
+      </h1>
+    </a>
+  </header>
+  <section
+    className="sc-eCApGN OjKCW"
+  >
+    <div
+      className="sc-jSFkmK ezGZQI"
+    >
+      <p>
+        What are you looking for?
+      </p>
+      <select
+        className="sc-gKAblj evbUBo"
+        onChange={[Function]}
+        value="people"
+      />
+    </div>
+  </section>
+  <section
+    className="sc-iCoHVE kSnZbO"
+  >
+    <div
+      className="sc-fujyUd kJyycj"
+    />
+  </section>
+</main>
+`;

@@ -1,0 +1,28 @@
+/* @font-face {
+    font-family: 'Noto-Serif-bold';
+    src: url('./Noto_Serif/NotoSerif-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-medium';
+    src: url('./Poppins/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'Poppins-light';
+    src: url('./Poppins/Poppins-Light.ttf');
+}
+
+body {
+    font-family: 'Noto-Serif-bold';
+    background-color: #ffdd67;
+}
+p {
+    font-family: 'Poppins-light';
+}
+li {
+    font-family: 'Poppins-medium';
+}
+.elementBlock {
+    width: 100vw;
+    display: flex;
+} */

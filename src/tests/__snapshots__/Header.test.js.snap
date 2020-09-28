@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly when there is a size 1`] = `
+<header
+  className="sc-bdnylx boUdXo"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1
+      className="sc-gtssRu ktzkmZ"
+      size="big"
+    >
+      Star Wars Universe.
+       
+    </h1>
+  </a>
+</header>
+`;
+
+exports[`Renders correctly when there is a title 1`] = `
+<header
+  className="sc-bdnylx boUdXo"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1
+      className="sc-gtssRu ktzkmZ"
+      size="small"
+    >
+      Marissa
+       
+    </h1>
+  </a>
+</header>
+`;
+
+exports[`Renders correctly when there is a unknown size 1`] = `
+<header
+  className="sc-bdnylx boUdXo"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1
+      className="sc-gtssRu ktzkmZ"
+      size="5"
+    >
+      Star Wars Universe.
+       
+    </h1>
+  </a>
+</header>
+`;
+
+exports[`Renders correctly when there is no title and/or size 1`] = `
+<header
+  className="sc-bdnylx boUdXo"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1
+      className="sc-gtssRu ktzkmZ"
+      size="small"
+    >
+      Star Wars Universe.
+       
+    </h1>
+  </a>
+</header>
+`;
