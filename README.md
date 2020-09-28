@@ -3,7 +3,9 @@
 
 The following assignment is based using the [Star Wars API](https://swapi.dev/).
 There will be an attachment with the design which is expected look similar and keep the same colors, format, etc.
-Live demo: https://wonderful-booth-59df80.netlify.app/
+
+## Live demo: 
+https://wonderful-booth-59df80.netlify.app/
 
 
 
