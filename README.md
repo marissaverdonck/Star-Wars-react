@@ -10,7 +10,7 @@ There will be an attachment with the design which is expected look similar and k
 
 
 
-Some requirements for the assignment:
+## Requirements
 
 - Use React
 - There should two routes
@@ -21,9 +21,9 @@ Some requirements for the assignment:
 - There should be error handling
 - There should a loading state when fetching an API request
 
-Page description:
+## Page description:
 
-Home Page
+### Home Page
 
 - There should be a select element with the following options 
 - - Planets
@@ -41,7 +41,7 @@ When there is an error, this should also be handled by displaying an error messa
 - The card element should display the name and the first character/letter of the name
 - The card should be clickable and should take you to the character page, mentioned earlier
 
-Character Page
+### Character Page
 
 - It should make an API call to the correct endpoint, to get the information of the selected entity
 - It should show the title/name of the selected entity in the left side
@@ -54,7 +54,7 @@ of the previous selected entity
 If a character type person named luke, we should call an API to search the first entities that start with L
 Every card should be clicable and update the current page with the new information
 
-Attributes
+### Attributes
 
 - birth_year
 - gender
