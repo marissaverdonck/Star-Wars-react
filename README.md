@@ -1,6 +1,13 @@
 The following assignment is based using the Star Wars API that can be found here - https://swapi.dev/
 There will be an attachment with the design which is expected look similar and keep the same colors, format, etc.
 
+
+
+<img width="505" alt="Schermafbeelding 2020-09-04 om 10 51 49" src="https://user-images.githubusercontent.com/43657951/94433805-24906900-0199-11eb-98a6-f23e8ca01c40.png">
+<img width="506" alt="Schermafbeelding 2020-09-04 om 10 54 01" src="https://user-images.githubusercontent.com/43657951/94433814-265a2c80-0199-11eb-8e86-00b50e7fedec.png">
+
+
+
 Some requirements for the assignment:
 
 - Use React
